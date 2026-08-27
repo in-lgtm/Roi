@@ -1,0 +1,7 @@
+roi_app/
+├── index.html                                    (Main HTML)
+├── styles.css                                    (Styling)
+├── script.js                                     (Calculator logic)
+├── .gitignore                                    (Git ignore rules)
+├── README.md                                     (Documentation)
+└── SolarClip-Lightweight-Solutions_rgb_color.png (Logo)
